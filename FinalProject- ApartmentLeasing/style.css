@@ -1,0 +1,34 @@
+body{
+    /*Link for image: https://www.google.com/url?sa=i&url=https%3A%2F%2Farbor.com%2Fblog%2Fsmall-multifamily-dominates-apartments%2F&psig=AOvVaw1aPUuzjP67yyw6h_Ey9GFz&ust=1698937762699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODq1sCKo4IDFQAAAAAdAAAAABAE*/
+    background-image: url("apartments.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5rem;
+}
+.container{
+    background-color: #E3D9CD;
+    margin-left: 47%;
+    padding: 5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 115px;
+    height: 35rem;
+    opacity: 90%;
+    max-width: 35rem;
+    min-width: 22rem;
+    font-family: 'Ysabeau', sans-serif;
+}
+form{
+    opacity: 100%;
+}
+input{
+    font-family: 'Ysabeau', sans-serif;
+}
+.queryDropdown{
+    border-radius: 90px;
+    font-size: 22px;
+    padding: 5px;
+    margin-right: 0.75rem;
+    font-family: 'Ysabeau', sans-serif;
+}
